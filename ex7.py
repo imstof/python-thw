@@ -1,9 +1,9 @@
 print "Mary had a little lamb."
-print "Its fleece was white as %s." % 'snow'
+print "Its fleece was white as %s." % 'snow' #there is no reason to do this
 print "And everywhere that Mary went."
-print "." * 10
+print "." * 10 #prints the string 10 times
 
-end1 = "C"
+end1 = "C" #a variable with the string "C"
 end2 = "h"
 end3 = "e"
 end4 = "e"
